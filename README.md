@@ -1,2 +1,2 @@
 # Reconhecimento-de-bananas
-Reconhecimento de bananas atrasvez de limites HSV
+Reconhecimento de bananas através de limites HSV
